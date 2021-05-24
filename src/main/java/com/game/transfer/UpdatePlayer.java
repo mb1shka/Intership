@@ -1,11 +1,8 @@
 package com.game.transfer;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonSetter;
 import com.game.entity.Profession;
 import com.game.entity.Race;
-import com.sun.istack.internal.NotNull;
-import org.springframework.lang.NonNull;
 
 import java.util.Optional;
 

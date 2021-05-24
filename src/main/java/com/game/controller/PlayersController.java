@@ -6,7 +6,6 @@ import com.game.entity.Race;
 import com.game.service.PlayerService;
 import com.game.transfer.CreatePlayer;
 import com.game.transfer.UpdatePlayer;
-import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.*;
